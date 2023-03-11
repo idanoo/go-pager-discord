@@ -1,4 +1,4 @@
-# go-pager-discord
+# go-pager-discord (WIP)
 Pipes POCSAG/FLEX pager messages into a discord webhook.
     
 ## Requirements
